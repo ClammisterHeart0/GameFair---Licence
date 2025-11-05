@@ -1,5 +1,7 @@
 # 📄 The GameFair License (GF-V1) - The Ethical Standard for Fan Content
 
+**— BUILT ON THE LEGAL FRAMEWORK OF THE MIT LICENSE —**
+
 The GameFair License (GF-V1) is a system of licensing designed for creators of mods, fangames, and fanfictions. It aims to protect the fan community from commercial exploitation while promoting ethical and transparent sharing.
 
 ## THE OBLIGATORY ETHICAL CORE (GF BASE RULES)
