@@ -1,41 +1,152 @@
-GameFair License (GF-V1)
-Version 1.0 - Share-Alike (GF-V1-SA)
-
-**This license is a derivative work, based on the structure and protective clauses (Disclaimer of Warranty and Limitation of Liability) of the MIT License.**
+GAMEFAIR LICENSE (GF-V1-SA)
+Version 1.2 – “Share-Alike”
+A Fair-Use-Inspired License for Fanworks, Mods, and Derivative Projects.
 
 Copyright (c) [CURRENT YEAR], [YOUR NAME or PROJECT NAME]
 
----
+───────────────────────────────────────────────────────────────────────────────
+PREAMBLE
+The GameFair License is a community-driven, ethics-based license created to
+protect fan creativity while maintaining respect for the original creators and
+their intellectual property (IP). It allows transformative, non-commercial fan
+projects such as mods, fangames, and fanfictions, while forbidding exploitative
+monetization and misrepresentation of canon. It also encourages mutual tolerance
+between fan creators and IP holders.
 
-### CRITICAL WARNING: NO IP TRANSFER
-This license governs the use of Derivative Fan Content. **This license grants NO ownership or rights to the Original Game/Work’s Intellectual Property (IP)**, which remains entirely with its legal holder. The Licensor is not liable for any legal actions taken by Original IP Holders against the Content.
+───────────────────────────────────────────────────────────────────────────────
+COPYRIGHT AND ORIGIN NOTICE
+Copyright © [CURRENT YEAR], [YOUR NAME or PROJECT NAME]
+This license is a derivative work of the MIT License, incorporating its
+Disclaimer of Warranty and Limitation of Liability.
 
-### COMMUNITY STATEMENT (Plea for Tolerance)
-The Content is provided under the presumption of Implied Tolerance. The Licensor and the GameFair Community request the Original IP Holder to avoid unmotivated Takedowns, or those motivated by malice or defamation, and provide reasonable advance notice (e.g., 30 days).
+───────────────────────────────────────────────────────────────────────────────
+1. DEFINITIONS
+- “Original Work” — The copyrighted game, story, or media property owned by its
+  legal holder.
+- “Fan Content” / “Derivative Fan Content” — A transformative, non-commercial
+  work inspired by the Original Work, created under fair-use or equivalent
+  principles.
+- “Fan Creator” — The individual or group producing the Fan Content.
+- “Licensor” — The party releasing the Fan Content under this License.
+- “Licensee” — Any person obtaining, using, or distributing the Fan Content.
 
----
+───────────────────────────────────────────────────────────────────────────────
+2. NO IP TRANSFER
+This License does not grant ownership, rights, endorsement, or control over the
+Original Work or its Intellectual Property. All IP rights remain fully with
+their lawful owners. The Licensor is not liable for any action taken by an IP
+Holder.
+> This License does not imply authorization, approval, or endorsement by the
+> Original IP Holder.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this Derivative Fan Content (the "Content"), to deal in the Content without restriction, including the rights to use, copy, modify, merge, publish, and distribute.
+───────────────────────────────────────────────────────────────────────────────
+3. CANON AND NARRATIVE BOUNDARIES
+The Fan Creator may not claim, declare, or implement any element of the Fan
+Content — including but not limited to storylines, events, characters, timelines,
+or lore — as canonical to the Original Work’s universe.
+All creative additions, modifications, or reinterpretations are canon only
+within the Fan Content itself.
+The sole exception is if the Original IP Holder issues explicit written
+authorization acknowledging such material as official or canon.
+> This clause preserves the creative integrity of both the fan work and the
+> original IP.
 
-**THIS PERMISSION IS SUBJECT TO THE FOLLOWING OBLIGATORY CONDITIONS:**
+───────────────────────────────────────────────────────────────────────────────
+4. COMMUNITY STATEMENT (Non-Binding)
+The GameFair Community and Licensor respectfully request that Original IP
+Holders avoid arbitrary or malicious takedowns of fan projects made in good
+faith. If removal is necessary, it is requested (not required) that reasonable
+advance notice (e.g., 30 days) be provided.
+> This section is a moral appeal and shall not be interpreted as a legal
+> obligation.
 
-1.  **Mandatory Attribution:** The above copyright notice and the full notice of this GameFair License must be included in all copies.
+───────────────────────────────────────────────────────────────────────────────
+5. LICENSE GRANT
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this Fan Content (the “Content”), to use, copy, modify, merge, publish, and
+distribute it for non-commercial purposes, subject to the following conditions.
 
-2.  **GameFair Reciprocity Clause (Share-Alike):** Any Derivative Work created from this Fan Content **must be licensed obligatorily** under the terms of the **GameFair License v1.0 - SA** or a subsequent version.
+───────────────────────────────────────────────────────────────────────────────
+6. OBLIGATORY CONDITIONS
 
-3.  **Strict Ban on Sale and Exploitative Monetization:**
-    a) The Content **MAY NOT BE SOLD** as a product (game, mod, or fanfic).
-    b) All explicit revenue models (microtransactions, paid DLCs, loot boxes, or subscriptions) are prohibited.
-    c) **Sole Exception:** This clause does not prohibit minimal passive revenue (e.g., non-intrusive advertisements or affiliate links) or **pure, voluntary, non-essential donations** where no exclusive advantage is offered in return.
+6.1 ATTRIBUTION
+All copies or substantial portions of the Content must include:
+- This complete GameFair License text; and
+- The copyright notice above.
+Attribution must be clearly visible in the project’s credits, documentation, or
+main distribution page.
 
-4.  **Exploitation and AI Training Ban:** The Content may not be used in projects selling non-substantive digital goods of an exploitative nature (such as unauthorized NFTs). **Furthermore, the Content may not be used as training data for Generative AI Models intended for commercial purposes without the Fan Creator's explicit written consent.**
+6.2 SHARE-ALIKE CLAUSE
+Any derivative work created from this Content must be licensed under:
+GameFair License Version 1.2 – SA or any later official version released by the
+GameFair Project or its successors.
+Distribution under incompatible or more restrictive terms is not permitted.
 
-**TERMINATION AND MONETIZATION EXCEPTION:**
-The license granted hereunder is **automatically terminated** if any of the above conditions are breached.
+6.3 BAN ON SALE AND EXPLOITATIVE MONETIZATION
+The Content:
+1. May not be sold or distributed in exchange for payment.
+2. May not include or rely on microtransactions, paid DLCs, subscriptions, or
+   loot boxes.
+3. Exceptions (allowed forms):
+   • Passive, non-intrusive advertisements (e.g., banner ads not affecting
+     gameplay).
+   • Voluntary, non-essential donations or “tip jars” offering no exclusive
+     advantage.
+   • Affiliate links or revenue-neutral promotional integrations.
+> Intent: permit fair community support, not commercialization.
 
-The Content MAY transition to monetization by sale only if **all Derivative Content from the Original Work is verifiably removed** OR **explicit written permission is obtained** from the Original IP Holder. If either condition is met, the GameFair License is **TERMINATED** for that specific version of the work, and the Fan Creator assumes all liability under the platform's EULA or the IP Holder's agreement.
+6.4 AI AND DIGITAL EXPLOITATION BAN
+The Content may not be:
+- Tokenized, sold, or distributed as NFTs or comparable digital assets; nor
+- Used to train commercial generative AI models,
+unless the Fan Creator provides explicit written consent.
+Non-commercial or academic AI use is permitted with proper attribution.
 
----
-### DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY (Legal Protection)
+───────────────────────────────────────────────────────────────────────────────
+7. TERMINATION AND COMMERCIAL EXCEPTION
+This License terminates automatically upon any breach of its terms.
+After termination, all rights granted hereunder are revoked, and continued use
+constitutes copyright infringement.
 
-THE CONTENT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CONTENT OR THE USE OR OTHER DEALINGS IN THE CONTENT.
+Commercial monetization is permitted only if:
+1. All elements derived from the Original Work are verifiably removed, or
+2. The Fan Creator has explicit written authorization from the Original IP
+   Holder.
+When either condition is met, this License ceases to apply to that specific
+version of the Content.
+
+───────────────────────────────────────────────────────────────────────────────
+8. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+THE CONTENT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE CONTENT OR THE USE OR OTHER DEALINGS IN THE
+CONTENT.
+
+───────────────────────────────────────────────────────────────────────────────
+9. GOVERNING LAW
+This License shall be governed by and construed in accordance with the laws of
+the jurisdiction in which the Licensor resides, unless otherwise specified.
+
+───────────────────────────────────────────────────────────────────────────────
+10. RECOMMENDED NOTICE TEMPLATE
+This project is a transformative, non-commercial fan work
+distributed under the GameFair License (GF-V1-SA).
+It is not endorsed by or affiliated with the original IP holders.
+Nothing within this project is canon to the original universe.
+Original IP © [Name of IP Holder]
+Fan Content © [CURRENT YEAR], [YOUR NAME or PROJECT NAME]
+License: https://github.com/ClammisterHeart0/GameFair---Licence
+
+───────────────────────────────────────────────────────────────────────────────
+SUMMARY (non-legal)
+You’re free to share, adapt, and build upon fan content if you:
+- Credit the creator,
+- Keep it non-commercial,
+- Use the same license for derivatives,
+- Do not claim canon, and
+- Respect the Original IP Holder.
+───────────────────────────────────────────────────────────────────────────────
+
