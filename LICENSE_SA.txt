@@ -1,0 +1,34 @@
+GameFair License (GF-V1)
+Version 1.0 - Share-Alike (GF-V1-SA)
+
+Copyright (c) [CURRENT YEAR], [YOUR NAME or PROJECT NAME]
+
+---
+
+### CRITICAL WARNING:
+This license governs the use of Fan Content (Mods, Fangames, Fanfictions). **This license grants no rights whatsoever to the Original Game/Work’s Intellectual Property (IP)**, which remains entirely with its legal holder. The Licensor is not liable for any legal actions taken by the Original IP Holders against the Fan Content.
+
+### COMMUNITY STATEMENT (Plea for Tolerance)
+The Fan Content licensed under GameFair is a labor of passion made under the premise of Implied Tolerance by the Original IP Holder. The Licensor and the GameFair Community request the Original IP Holder to avoid unmotivated Takedowns and provide reasonable advance notice (e.g., 30 days).
+
+---
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Derivative Fan Content (the "Content"), to deal in the Content without restriction, including the rights to use, copy, modify, merge, publish, and distribute.
+
+**THIS PERMISSION IS SUBJECT TO THE FOLLOWING OBLIGATORY CONDITIONS:**
+
+1.  **Mandatory Attribution:** The above copyright notice and the full notice of this GameFair License must be included in all copies (or substantial portions) of the Content.
+
+2.  **GameFair Reciprocity Clause (Share-Alike):** Any Derivative Work (modification, translation, or sequel) created from this Fan Content **must be licensed obligatorily** under the terms of the **GameFair License v1.0 - SA** or a subsequent version.
+
+3.  **Strict Ban on Sale and Explicit Monetization:** The Fan Content **MAY NOT BE SOLD** as a product (game, mod, or fanfic). All revenue models including microtransactions, paid DLCs, loot boxes, or subscriptions are prohibited. **The sole exception is pure, voluntary, non-essential donations.**
+
+**TRANSITION EXCEPTION:** The Fan Creator MAY ONLY monetize by sale if **all Derivative Content from the Original Work is verifiably removed** OR **explicit written permission is obtained** from the Original IP Holder. If either is met, the work is no longer governed by the GameFair License.
+
+4.  **Exploitation Ban:** The Fan Content may not be used in projects selling non-substantive digital goods of an exploitative nature (such as unauthorized NFTs).
+
+---
+### DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY (Legal Protection)
+
+THE CONTENT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND...
+[... The remainder of the standard MIT License Disclaimer text goes here ...]
