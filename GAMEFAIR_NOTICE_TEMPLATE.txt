@@ -1,0 +1,27 @@
+# GAMEFAIR LICENSE AND ATTRIBUTION NOTICE
+# THIS WORK IS LICENSED UNDER THE GAMEFAIR LICENSE (GF-V1-XX)
+# The full legal text is available at: [PLACE YOUR GITHUB REPO LINK HERE]
+
+## 1. BASIC WORK INFORMATION
+
+* **Fan Work Title:** [Name of Mod / Fan Game / Fanfic]
+* **Creator/Licensor Name:** [Your Name or Pseudonym]
+* **Release Date (v1.0):** [Day/Month/Year]
+* **Applicable GameFair Variation:** [GF-V1-SA / GF-V1-ND / GF-V1-AU / GF-V1-CC]
+
+## 2. INTELLECTUAL PROPERTY (IP) ATTRIBUTION
+
+* **Original Source Work:** [Name of the Base Game, Series, or Book]
+* **Legal Original IP Holder:** [Name of the Company/Person Holding the Copyright]
+* **Alternate Universe (AU) Creator (if GF-V1-AU):** [Name and Link to the AU Creator]
+
+## 3. CONTENT COMPOSITION
+
+* **Original Fan Characters:** [List names of characters YOU created]
+* **Derivative/Existing Characters:** [List names of characters used from the Original Work]
+* **New Mechanics/Systems:** [Briefly describe the new additions (for Mods/Games)]
+* **Third-Party Assets (Code/Art/Music):** [List any third-party components used and their license, e.g., 'SimpleUI Library' - MIT License]
+
+## 4. GAMEFAIR CONDITIONS ACKNOWLEDGEMENT
+
+The end-user acknowledges the **STRICT NON-COMMERCIAL** nature of this work and agrees to comply with the chosen GameFair License conditions (GF-V1-XX).
