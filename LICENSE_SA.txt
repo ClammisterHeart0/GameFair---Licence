@@ -1,6 +1,8 @@
 GameFair License (GF-V1)
 Version 1.0 - Share-Alike (GF-V1-SA)
 
+**This license is a derivative work, based on the structure and protective clauses (Disclaimer of Warranty and Limitation of Liability) of the MIT License.**
+
 Copyright (c) [CURRENT YEAR], [YOUR NAME or PROJECT NAME]
 
 ---
